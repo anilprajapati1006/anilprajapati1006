@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm passionate about building intuitive user inter
 ---
 
 ## 📫 Let's Connect!  
-- 🌐 **Portfolio:** https://www.anilprajapatidev.tech(#)  
+- 🌐 **Portfolio:** https://www.anilprajapati.tech(#)  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/anilprajapati1006/(#)
 
 Feel free to explore my repositories and get in touch for collaborations or opportunities! Let's code something amazing together! 💻✨  
